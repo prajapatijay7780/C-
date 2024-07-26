@@ -1,0 +1,5 @@
+E:\c#\2D array\AssendingDessending\AssendingDessending\bin\Debug\AssendingDessending.exe.config
+E:\c#\2D array\AssendingDessending\AssendingDessending\bin\Debug\AssendingDessending.exe
+E:\c#\2D array\AssendingDessending\AssendingDessending\bin\Debug\AssendingDessending.pdb
+E:\c#\2D array\AssendingDessending\AssendingDessending\obj\Debug\AssendingDessending.exe
+E:\c#\2D array\AssendingDessending\AssendingDessending\obj\Debug\AssendingDessending.pdb

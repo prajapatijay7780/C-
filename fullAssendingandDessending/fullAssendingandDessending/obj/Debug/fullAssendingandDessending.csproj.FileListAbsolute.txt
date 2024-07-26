@@ -1,0 +1,5 @@
+E:\c#\2D array\fullAssendingandDessending\fullAssendingandDessending\bin\Debug\fullAssendingandDessending.exe.config
+E:\c#\2D array\fullAssendingandDessending\fullAssendingandDessending\bin\Debug\fullAssendingandDessending.exe
+E:\c#\2D array\fullAssendingandDessending\fullAssendingandDessending\bin\Debug\fullAssendingandDessending.pdb
+E:\c#\2D array\fullAssendingandDessending\fullAssendingandDessending\obj\Debug\fullAssendingandDessending.exe
+E:\c#\2D array\fullAssendingandDessending\fullAssendingandDessending\obj\Debug\fullAssendingandDessending.pdb

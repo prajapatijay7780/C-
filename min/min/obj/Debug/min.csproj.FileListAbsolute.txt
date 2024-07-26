@@ -1,0 +1,5 @@
+E:\c#\2D array\min\min\bin\Debug\min.exe.config
+E:\c#\2D array\min\min\bin\Debug\min.exe
+E:\c#\2D array\min\min\bin\Debug\min.pdb
+E:\c#\2D array\min\min\obj\Debug\min.exe
+E:\c#\2D array\min\min\obj\Debug\min.pdb
